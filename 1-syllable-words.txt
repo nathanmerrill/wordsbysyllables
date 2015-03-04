@@ -8,6 +8,11 @@ was
 his
 he
 it
+irs
+ore
+roy
+inn
+yer
 with
 is
 for
@@ -400,6 +405,7 @@ smile
 books
 wrong
 sleep
+blockquote
 drew
 walked
 chief
@@ -480,6 +486,7 @@ cry
 cost
 girls
 broke
+honour
 sit
 news
 top
@@ -1104,6 +1111,7 @@ shed
 folks
 star
 deeds
+wordforms
 oath
 guest
 bar
@@ -1293,6 +1301,7 @@ dwelt
 trick
 joke
 mist
+hypertext
 shell
 nest
 fetch
@@ -1378,6 +1387,7 @@ doubts
 fro
 string
 strict
+yourselves
 likes
 corps
 judged
@@ -1424,6 +1434,7 @@ den
 dine
 ann
 sphere
+honourable
 guilt
 steal
 lip
@@ -1473,6 +1484,7 @@ dealt
 cents
 whip
 checked
+countrymen
 shirt
 sweep
 sketch
@@ -1726,6 +1738,7 @@ beef
 rests
 slay
 sealed
+undertaken
 posts
 blade
 spy
@@ -1809,6 +1822,7 @@ stamp
 whites
 drift
 roared
+honoured
 ray
 ink
 oft
@@ -1826,6 +1840,7 @@ swing
 freed
 lined
 shrugged
+honours
 checks
 pub
 grove
@@ -1892,6 +1907,7 @@ tons
 dave
 moore
 meets
+inasmuch
 stress
 groan
 suits
@@ -2005,6 +2021,7 @@ poles
 verge
 bin
 stained
+fundraising
 weigh
 float
 troy
@@ -2013,6 +2030,7 @@ mould
 hymn
 ken
 witch
+seamen
 backed
 pomp
 mess
@@ -2064,6 +2082,7 @@ guides
 vii
 link
 pluck
+statesmen
 yon
 moss
 skilled
@@ -2086,6 +2105,7 @@ vent
 vines
 flags
 ranch
+solicitation
 odds
 aims
 pie
@@ -2216,6 +2236,7 @@ suite
 heaped
 babe
 rogue
+reconciliation
 hull
 jeff
 peak
@@ -2235,6 +2256,7 @@ tempt
 lid
 fowl
 threads
+violation
 boss
 piles
 peer
@@ -2242,6 +2264,7 @@ cheers
 wrung
 gilt
 strand
+fishermen
 sly
 boon
 brink
@@ -2413,6 +2436,7 @@ launch
 worms
 drug
 gaunt
+overtaken
 quart
 soothed
 sic
@@ -2491,6 +2515,7 @@ rug
 ham
 mice
 pose
+unintelligible
 guise
 noun
 scout
@@ -2504,6 +2529,7 @@ tank
 pins
 chart
 twin
+overthrown
 blunt
 bleak
 sub
@@ -2563,6 +2589,8 @@ beak
 rot
 grate
 lease
+maketh
+repaid
 pier
 stale
 comb
@@ -2691,6 +2719,7 @@ jug
 sap
 yale
 scarf
+dishonour
 aux
 scar
 sous

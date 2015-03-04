@@ -19,19 +19,8 @@ many
 every
 people
 away
-repaid
-maketh
-statesmen
-seamen
-wordforms
-honour
-honours
-honoured
 under
 also
-blockquote
-yourselves
-hypertext
 against
 ever
 nothing
@@ -1386,7 +1375,6 @@ parish
 basket
 deserve
 mirror
-yer
 upward
 sadly
 adding
@@ -2643,7 +2631,7 @@ stepping
 resign
 despatch
 reject
-roy
+ruby
 fragment
 darker
 flatter
@@ -2850,7 +2838,6 @@ frankness
 rogers
 villa
 resource
-irs
 confine
 sewing
 dusky
@@ -2991,7 +2978,6 @@ phantom
 whirling
 instruct
 dickens
-ore
 purest
 doubly
 forbear

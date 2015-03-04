@@ -19,6 +19,7 @@ many
 every
 people
 away
+horsemen
 under
 also
 against
@@ -792,7 +793,6 @@ belong
 finger
 market
 troubled
-difficulties
 picked
 somewhere
 household
@@ -2232,7 +2232,6 @@ prospects
 humbly
 serene
 roughly
-remarkably
 dainty
 brightness
 restrain
@@ -3644,7 +3643,6 @@ vapour
 lances
 godly
 therefrom
-specifically
 davy
 framework
 squirrel
